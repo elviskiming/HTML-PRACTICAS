@@ -1,0 +1,48 @@
+#Lista-de-compra {
+color: brown;
+font-size: 18px;
+}
+
+.Lista-de-compra {
+    color: blueviolet;
+    font-size: 20px;
+}
+/* colores a la lista desordenada selector id*/
+#galleta {
+    color: aqua;
+    color: red;
+    font-size: 2px;
+}
+
+#leche {
+    color: blue;
+}
+
+#limon {
+    color: blueviolet;
+}
+
+#cafe {
+    color: brown;
+}
+
+#maltita {
+    color: yellowgreen;
+}
+/* colores a la lista ordenada selector id*/
+#colosal {
+    color: violet;
+    color: red;
+}
+#molcor {
+    color: tomato;
+}
+#mio {
+    color: teal;
+}
+#baobei {
+    color: turquoise;
+}
+#guanzu {
+    color: yellow;
+}
